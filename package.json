@@ -1,0 +1,27 @@
+{
+  "name": "coding-backend",
+  "version": "1.0.0",
+  "description": "Learning Backend in details thoery,concpets and practice and know everthing behind the logic",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "backend",
+    "coding",
+    "aslam",
+    "dsa"
+  ],
+  "author": "Mirza Aslam Beg",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
